@@ -1,4 +1,4 @@
-# K-samsök
+# Fork of K-samsök
 
 K-samsöks primära kodbas innehållande kod för APIet, URI resolver, skördegränssnitt samt filer för datamodell och auktoriteter.
 
@@ -6,7 +6,7 @@ K-samsöks primära kodbas innehållande kod för APIet, URI resolver, skördegr
 
 Det går att peka till Solr och Postgres som inte finns lokalt.
 
- - ksamsok-solr
+ - Solr
  - Tomcat 7.0.82
  - Java 1.8
  - Postgres (uppsatt med `repo.postgres.sql`)
